@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://github.com/SmAbtahinoor" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" width="300px" height="195px"float="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=smabtahinoor&show_icons=true&locale=en&layout=compact" alt="smabtahinoor" /></p>
+<p><img align="left" width="400px" height="195px"float="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=smabtahinoor&show_icons=true&locale=en&layout=compact" alt="smabtahinoor" /></p>
 <br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=smabtahinoor&show_icons=true&locale=en" alt="smabtahinoor" /></p>
+<p>&nbsp;<img align="right"width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=smabtahinoor&show_icons=true&locale=en" alt="smabtahinoor" /></p>
 
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=smabtahinoor&" alt="smabtahinoor" /></p>
+<p><img align="center"width="400px" height="195px"src="https://github-readme-streak-stats.herokuapp.com/?user=smabtahinoor&" alt="smabtahinoor" /></p>
