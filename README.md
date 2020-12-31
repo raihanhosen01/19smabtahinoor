@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - 📫 My Portfolio: <a href="https://smabtahinoor.netlify.app">S.M.Abtahi Noor </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smabtahinoor&label=Profile%20views&color=0e75b6&style=flat" alt="smabtahinoor" /> </p>
-<p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smabtahinoor" alt="smabtahinoor" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=smabtahinoor&show_icons=true&locale=en" alt="smabtahinoor" /></p>
 
-<p><img align="center" style="margin-top:10px;"src="https://github-readme-streak-stats.herokuapp.com/?user=smabtahinoor&" alt="smabtahinoor" /></p>
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=smabtahinoor&" alt="smabtahinoor" /></p>
