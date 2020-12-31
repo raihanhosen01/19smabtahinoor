@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/smabtahinoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="smabtahinoor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/s.m.abtahi noor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="s.m.abtahi noor" height="30" width="40" /></a>
 <a href="https://discord.gg/#4438" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#4438" height="30" width="40" /></a>
-<a href="/https://smabtahinoor.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://smabtahinoor.netlify.app" height="30" width="40" /></a>
+<a href="https://smabtahinoor.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://smabtahinoor.netlify.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
