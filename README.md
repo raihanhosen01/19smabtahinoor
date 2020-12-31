@@ -8,13 +8,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - 📫 My Portfolio: <a href="https://smabtahinoor.netlify.app">S.M.Abtahi Noor </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SmAbtahinoor&&show_icons=true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
-
-
-<h1 align="center">Hi 👋, I'm S.M.Abtahi Noor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smabtahinoor&label=Profile%20views&color=0e75b6&style=flat" alt="smabtahinoor" /> </p>
 
 <p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
