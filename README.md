@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - 📫 My Portfolio: <a href="https://smabtahinoor.netlify.app">S.M.Abtahi Noor </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smabtahinoor&label=Profile%20views&color=0e75b6&style=flat" alt="smabtahinoor" /> </p>
-<p align="left"> <a href="https://instagram.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p><p align="left"> <a href="https://github.com/SmAbtahinoor"><img src="https://github-profile-trophy.vercel.app/?username=smabtahinoor" alt="smabtahinoor" /></a> </p>
+
+<p align="left"> <a href="https://instagram.com/smabtahinoor" target="blank"><img src="https://img.shields.io/instagram/follow/smabtahinoor?logo=instagram&style=for-the-badge" alt="smabtahinoor" /></a> </p>
+<p align="left"> <a href="https://github.com/SmAbtahinoor"><img src="https://github-profile-trophy.vercel.app/?username=smabtahinoor" alt="smabtahinoor" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
