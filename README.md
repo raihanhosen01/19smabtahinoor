@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm S.M.Abtahi Noor</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+# Hi! I am <a href="https://smabtahinoor.netlify.app">S.M.Abtahi Noor</a>
 
+Here are some ideas to get you started:
+
+- 🔭 I read in class VIII at Dhaka Residential Model College. 
+- 🌱 I’m currently learning Javascript.
+- 🌱 My hobbies are coding,painting and singing.
+- 📫 How to reach me: <a href="https://www.facebook.com/abtahinoorsm"> Facebook Profile </a>, <a href="https://www.facebook.com/19smabtahinoor"> Facebook Page </a> , <a href="https://www.instagram.com/smabtahinoor">Instagram </a> ,<a href="https://www.twitter.com/smabtahinoor">Twitter </a>, <a href="https://www.linkedin.com/in/smabtahinoor/"> Linkedin </a>
+- 😄 Pronouns: He/His.
+- 📫 My Portfolio: <a href="https://smabtahinoor.netlify.app">S.M.Abtahi Noor </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smabtahinoor&label=Profile%20views&color=0e75b6&style=flat" alt="smabtahinoor" /> </p>
+
+<p align="left"> <a href="https://instagram.com/smabtahinoor" target="blank"><img src="https://img.shields.io/instagram/follow/smabtahinoor?logo=instagram&style=for-the-badge" alt="smabtahinoor" /></a> </p>
+<p align="left"> <a href="https://github.com/SmAbtahinoor"><img src="https://github-profile-trophy.vercel.app/?username=smabtahinoor" alt="smabtahinoor" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smabtahinoor&label=Profile%20views&color=0e75b6&style=flat" alt="smabtahinoor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smabtahinoor" alt="smabtahinoor" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
