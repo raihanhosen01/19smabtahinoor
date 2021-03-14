@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&locale=en" alt="19smabtahinoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19smabtahinoor&" alt="19smabtahinoor" /></p>
-![certificates](https://user-images.githubusercontent.com/73340940/111066868-6dd83900-84eb-11eb-8130-0735b1615b43.jpg)
+<a href="https://ibb.co/cLtVjwj"><img src="https://i.ibb.co/X8pMqDq/certificates.jpg" alt="certificates" border="0"></a>
