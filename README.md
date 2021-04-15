@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19smabtahinoor&" alt="19smabtahinoor" /></p>
 
 <h3 align="left">Certification for Javascript ES6 Course:</h3>
-<a href="https://github.com/19smabtahinoor/"><img width="700px" height="400px"src="https://i.ibb.co/X8pMqDq/certificates.jpg" alt="certificates" border="0"></a>
+<a href="https://github.com/19smabtahinoor/"><img width="520px" height="400px"src="https://i.ibb.co/X8pMqDq/certificates.jpg" alt="certificates" border="0"></a>
