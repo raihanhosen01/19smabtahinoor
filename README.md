@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&locale=en" alt="19smabtahinoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19smabtahinoor&" alt="19smabtahinoor" /></p>
+
+<h3 align="left">Certification for Javascript ES6 Course:</h3>
 <a href="https://github.com/19smabtahinoor/"><img width="700px" src="https://i.ibb.co/X8pMqDq/certificates.jpg" alt="certificates" border="0"></a>
